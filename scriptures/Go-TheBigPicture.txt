@@ -1,0 +1,43 @@
+Characteristics -
+    Strong, Static type system :
+        Static typed programming languages are those in which variables need not be defined before 
+        they're used. 
+    C-inspired system
+    Multi Paradigm - Procedural, OOP
+    Garbage Collected
+    Fully Compiled
+    Rapid Compilation
+    Single binary output
+
+What is Go -
+    Developed by : Google : Ken Thompson, Rob Pike, Robert Griesemer
+    Problem to address : Efficient Compilation, Execution and Ease of programming
+
+Philosophy and Values -
+    Simplicity : 
+
+    Network aware and Concurrent apps : net and net/http packages : Create web server using
+                                                                    only standard library
+                                        goroutines : Concurrency : Minimal resources
+                                        Scheduler : keep tracks of all goroutines
+                                        channels : to communicate between multiple Concurrent
+                                                   tasks (goroutines).
+    
+    Out-of-the box Experience : Standard library : Testing, Networking APIs, File and String
+                                                   Manipulation, Data Compression.
+                                Go Cli : Project Intialization, Build, Code Generation.
+                                         Retrive Dependencies, Test, Profiling,
+                                         Documentation, Report language Bugs
+    
+    Cross Platform : 
+    
+    Backward Compatibility : Exception : Security, Unspecified Behaviour, Specification Error,
+                                         Bugs
+
+Use Cases -
+    Web Services :
+    Web Applications :
+    DevOps :
+    GUI/Thick Client :
+    Machine Learning :
+    

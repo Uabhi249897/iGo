@@ -1,0 +1,23 @@
+Package main defines -
+    This is going to be a standalone executable program, rather than a shared library.
+    It is our program entrypoint.
+
+Go is Case-Sensitive
+
+// line comment
+/* block 
+comment */
+
+Short Assignments (like a:= 10) can be used with the function only and you have to use them
+    all otherwise you'll get an error.
+    Go support type inference
+
+Functions enables to us to write clean, tidy, modular code.
+    return keyword exits a function.
+
+    main() : called automatically, doesn't take any parameters, doesn't return any values,
+             signature is simple
+
+             When you don't know how many values are going to be passed in a function use
+             Variadic Functions
+
